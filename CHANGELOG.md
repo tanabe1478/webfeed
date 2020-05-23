@@ -1,4 +1,7 @@
 # Changelog
+## [0.5.0]
+### Fixed
+- Support RSS1.0
 ## [0.4.2](https://pub.dartlang.org/packages/webfeed/versions/0.4.2)
 ### Fixed
 - Bad import in `rss_content.dart` & `rss_source.dart`
